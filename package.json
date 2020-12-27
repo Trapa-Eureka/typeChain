@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/Trapa-Eureka/typeChain.git",
   "author": "JINHO SON <son199@hanmail.net>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
 }
