@@ -1,0 +1,9 @@
+{
+  "name": "typeChain",
+  "version": "1.0.0",
+  "description": "TypeScript and making a small BlockChain with it",
+  "main": "index.js",
+  "repository": "https://github.com/Trapa-Eureka/typeChain.git",
+  "author": "JINHO SON <son199@hanmail.net>",
+  "license": "MIT"
+}
